@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669111567860",
+    "firebase_url": "https://abhi-brew-crew-bf6b1.firebaseio.com",
+    "project_id": "abhi-brew-crew-bf6b1",
+    "storage_bucket": "abhi-brew-crew-bf6b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669111567860:android:1a67e3c34d9c299834e5a1",
+        "android_client_info": {
+          "package_name": "com.abhiT.Brew_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669111567860-p70j9h7e3chqek8be3d60s4qkia32biu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqKtkezmg52_3g2sh6Qjg-drusno-qjlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669111567860-p70j9h7e3chqek8be3d60s4qkia32biu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
